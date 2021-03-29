@@ -1,0 +1,50 @@
+h1{
+    margin-top: 1pt;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.link_volver{
+  text-align: right;
+  border-bottom: 5cm;
+}
+p {
+    margin-left: 5cm;
+    margin-right: 5cm;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-top: 2cm;
+  }
+
+h2{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 2cm;
+}
+
+ul{ 
+    margin-left: 3cm;
+}
+
+
+.link_max {
+  border: 5px outset rgb(10, 10, 10);    
+  text-align: center;
+}
+.max{
+    text-align: center;
+}
+.link_gaspar {
+  border: 5px outset rgb(10, 10, 10);           
+  text-align: center;
+}
+.gaspar{
+    text-align: center;
+}
+.link_stefi {
+  border: 5px outset rgb(10, 10, 10);             
+  text-align: center;
+}
+.stefi{
+    text-align: center;
+}
