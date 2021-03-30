@@ -1,5 +1,10 @@
+.link_volver{
+    text-align: right;
+    border-bottom: 5cm;
+  }
+
 h1{
-    margin-top: 100pt;
+    margin-top: 0pt;
     text-align: center;
     font-weight: bolder;
 }
